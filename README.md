@@ -1,1 +1,2 @@
 # Detecting-storm-damage-to-forests-using-open-source-satellite-data
+Recent storms such as storm Éowyn and storm Darragh have caused widespread destruction to forestry in Ireland. It can take a number of weeks after the storm to accurately asses the extent of the damage. This project aims to develop a method to rapidly generate an accurate estimate of storm damage using only publicly available data, including satellite data, forecast data, and physical models of wind damage.
