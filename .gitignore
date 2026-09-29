@@ -1,0 +1,15 @@
+# Data (large files)
+DATA/*
+!DATA/.gitkeep
+!DATA/README.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.vscode/
